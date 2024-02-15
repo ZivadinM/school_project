@@ -1,4 +1,4 @@
-#School Project Design - Site about online auctions
+# School Project Design - Site about online auctions
 
 ## Description
 Welcome to the project, a school initiative aimed at explaining the online auction.
